@@ -1,0 +1,8 @@
+{
+ "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+ "name": "io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/voice-core",
+ "title": "Eclipse Voice Core MCP",
+ "description": "The Consent Registry and Number Registry every Eclipse telephony adapter obeys.",
+ "version": "0.1.0",
+ "websiteUrl": "https://eclipsebazaar.com"
+}
